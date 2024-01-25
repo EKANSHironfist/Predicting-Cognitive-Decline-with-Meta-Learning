@@ -1,11 +1,10 @@
-# Prediction of Dementia using Three Ensemble Machine Learning Methods: Project Overview
+# Cognitive decline  predictor using Meta-Learning Algorithms: Project Overview
 
-An application that allows users to predict the risk of a patient having dementia based from their MRI Scan and other medical data
+Empowering early dementia detection through personalized AI analysis of MRI scans and medical data.
 
-* Three types of Ensemble methods were performed to model the data .i.e Bagging, Stacking and Boosting.
-    * Bagging using Random Forest
-    * Stacking using Decision Trees, Naive Bayes and K-Nearest Neighbors
-    * Boosting using XGBoost
+* Maximized dementia prediction accuracy with Bagging, Stacking, and Boosting techniques.
+* Tripled detection power: Random Forest bagging, stacked Decision Trees-Naive Bayes-KNN, and XGBoost boosting.
+* Boosted prediction performance with ensembles: Bagging, Stacking, and XGBoost.
 
 * Performed various Data Preprocessing techniques such as missing data imputation and removal of multicolinear features to clean and make the data ready for model building
 
